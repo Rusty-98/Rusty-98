@@ -5,7 +5,7 @@
 [![Email Badge](https://img.shields.io/badge/Email-sumitsinghhbtu98@gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:sumitsinghhbtu98@gmail.com)
 [![Phone Badge](https://img.shields.io/badge/Phone-7355513813-green?style=flat&logo=phone&logoColor=white)](tel:7355513813)
 
-## 💻 Tech Stack
+## 💻 Tech
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
@@ -44,7 +44,6 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rusty-98&theme=dark&hide_border=false&include_all_commits=false&count_private=false)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rusty-98&theme=dark&hide_border=false)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rusty-98&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
@@ -68,13 +67,24 @@
 - Backend: Engineered with Node.js and Express for efficient server-side operations.
 - Future Enhancements: Plan to integrate an AI bot for enhanced gameplay depth.
 
+### [LinkVault](https://linkvault-app.vercel.app/)  
+**Technologies:** Vite, Node.js, Express, MongoDB, TailwindCSS, JWT Authentication, Shadcn  
+[GitHub Repository](https://github.com/Rusty-98/linkVault)  
+
+- **Secure Link Storage:** Safeguard your important links with encrypted storage and user authentication.  
+- **Categorization & Search:** Organize links into categories and search effortlessly with advanced filtering options.  
+- **Responsive Design:** Built with Tailwind CSS for a seamless experience across all devices.  
+- **User Authentication:** Powered by JWT for robust and secure login sessions.  
+- **Future Enhancements:** Adding link-sharing features and analytics for user activity tracking.  
+
+
 ## 💼 Experience
 
 ### Associate Head
 **Hobby Sub Council, Technical Sub Council, Cultural Sub Council, HBTU**  
 _February 2024 – Present_
 
-- Managed web development for multiple subcouncils using React.js, Next.js, and TypeScript.
+- Managed web development for multiple subcouncils using React.js, Next.js fullstack sites.
 - Coordinated diverse cultural and technical events, enhancing community engagement.
 
 Websites:
@@ -84,7 +94,7 @@ Websites:
 
 ## 🏆 Achievements
 
-- Solved 100+ DSA problems across platforms like CodeChef, LeetCode, and GeeksforGeeks.
+- Solved 250+ DSA problems across platforms like CodeChef, LeetCode, and GeeksforGeeks.
 - Successfully implemented features in competitive programming platforms integrating APIs from various sources.
 - Created a Flashcard Learning Tool and Voting App with advanced UI/UX designs and interactive features.
 
