@@ -42,10 +42,6 @@
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 
-## 📊 GitHub Stats
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rusty-98&theme=dark&hide_border=false)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rusty-98&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🚀 Projects
 
@@ -67,7 +63,7 @@
 - Backend: Engineered with Node.js and Express for efficient server-side operations.
 - Future Enhancements: Plan to integrate an AI bot for enhanced gameplay depth.
 
-### [LinkVault](https://linkvault-app.vercel.app/)  
+### [LinkVault](https://linkvault-rusty98.vercel.app)  
 **Technologies:** Vite, Node.js, Express, MongoDB, TailwindCSS, JWT Authentication, Shadcn  
 [GitHub Repository](https://github.com/Rusty-98/linkVault)  
 
