@@ -45,52 +45,76 @@
 
 ## 🚀 Projects
 
+### [DbChat](https://dbchat-rusty98.vercel.app/)
+**Technologies:** React, Node.js, Express, MongoDB, Socket.io  
+[GitHub Repository](https://github.com/Rusty-98/DbChat)
+
+- **AI-Driven Database Interaction:** Enables direct querying and chatting with database records, such as student data, for easy management.
+- **Natural Language Queries:** Teachers or users can ask questions like "How many students have attendance greater than 80%" or "How many students scored above average?" in plain language.
+- **Real-time Communication:** Facilitates dynamic interaction with data through a chat-based interface.
+- **Customizable Backend:** Built with Node.js, Express, and MongoDB to store and process data efficiently.
+
+### [CodeAlchemy](https://code-alchemy-rusty98.vercel.app/)
+**Technologies:** React, Node.js (Express), Clerk, MongoDB, Google Gemini AI  
+[GitHub Repository](https://github.com/Rusty-98/code-alchemy)
+
+- **AI-Assisted File Generation:** Developed a full-stack platform where users can input text, and the system generates structured output files, packaged into a downloadable ZIP format.
+- **Secure User Authentication:** Implemented secure authentication and user management using **Clerk**.
+- **AI Integration:** Utilized **Google Gemini AI** to analyze and transform text into structured files.
+- **Data Storage & Management:** Integrated **MongoDB (Mongoose)** for storing user data, including usage tracking and subscription-based limits.
+- **User Experience:** Built with a user-friendly interface to guide users seamlessly through the file generation process.
+
 ### [Code Discuss](https://cd-front-xi.vercel.app/)
 **Technologies:** React, Node.js, Express, TailwindCSS, MongoDB, Socket.io  
 [GitHub Repository](https://github.com/Rusty-98/CD-front)
 
-- Real-time Collaboration: Seamlessly edit code together in real-time with multiple users.
-- Integrated Voice Chat: Enhance collaboration with built-in voice chat powered by AgoraRTC.
-- Secure Data Management: Utilizes MongoDB for scalable and secure storage of user sessions and data.
-- User-friendly Interface: Designed with Tailwind CSS for a modern and intuitive user experience.
+- **Real-time Collaboration:** Edit code together in real-time with multiple users.
+- **Integrated Voice Chat:** Built-in voice chat powered by AgoraRTC for enhanced collaboration.
+- **Secure Data Management:** Utilizes MongoDB for scalable and secure storage of user sessions and data.
+- **User-friendly Interface:** Designed with Tailwind CSS for a modern, intuitive user experience.
 
 ### [Tic Tac Toe](https://ticktack.vercel.app/)
 **Technologies:** React, Node.js, Express, TailwindCSS, Socket.io  
 [GitHub Repository](https://github.com/Rusty-98/tick)
 
-- Real-time Multiplayer: Features real-time multiplayer functionality with Socket.io.
-- Frontend: Built with React and Tailwind CSS for a dynamic and responsive design.
-- Backend: Engineered with Node.js and Express for efficient server-side operations.
-- Future Enhancements: Plan to integrate an AI bot for enhanced gameplay depth.
+- **Real-time Multiplayer:** Real-time multiplayer functionality with Socket.io.
+- **Frontend:** Built with React and Tailwind CSS for a dynamic, responsive UI.
+- **Backend:** Engineered with Node.js and Express for efficient server-side operations.
+- **Future Enhancements:** Plans to integrate an AI bot for deeper gameplay.
 
 ### [LinkVault](https://linkvault-rusty98.vercel.app)  
 **Technologies:** Vite, Node.js, Express, MongoDB, TailwindCSS, JWT Authentication, Shadcn  
-[GitHub Repository](https://github.com/Rusty-98/linkVault)  
+[GitHub Repository](https://github.com/Rusty-98/linkVault)
 
-- **Secure Link Storage:** Safeguard your important links with encrypted storage and user authentication.  
-- **Categorization & Search:** Organize links into categories and search effortlessly with advanced filtering options.  
-- **Responsive Design:** Built with Tailwind CSS for a seamless experience across all devices.  
-- **User Authentication:** Powered by JWT for robust and secure login sessions.  
-- **Future Enhancements:** Adding link-sharing features and analytics for user activity tracking.  
-
+- **Secure Link Storage:** Encrypted storage for important links with user authentication.
+- **Categorization & Search:** Organize links into categories and search easily with advanced filtering options.
+- **Responsive Design:** Seamless experience across devices, built with Tailwind CSS.
+- **User Authentication:** Robust JWT-powered login for secure sessions.
+- **Future Enhancements:** Adding link-sharing features and analytics for user activity tracking.
+---
 
 ## 💼 Experience
 
-### Associate Head
-**Hobby Sub Council, Technical Sub Council, Cultural Sub Council, HBTU**  
-_February 2024 – Present_
+### Tech Lead, Full-Stack Developer (Student Startup)  
+**TaskSwap**  
+_February 2025 – Present_
 
-- Managed web development for multiple subcouncils using React.js, Next.js fullstack sites.
-- Coordinated diverse cultural and technical events, enhancing community engagement.
+- **Led full-stack development** of a live task management platform with real users, integrating task posting, assignment, and real-time chat features to enhance user engagement and productivity.
+- **Designed and implemented a responsive admin dashboard**, featuring analytics, user control tools, and actionable insights to streamline data interpretation and improve customer support efficiency.
+- **Collaborated on product strategy and technical architecture**, ensuring UI/UX design and feature development aligned with platform growth and user needs.
 
-Websites:
-- [Hobby Sub Council](https://hsc-hbtu.site/) - Tarang
-- [Technical Sub Council](https://www.technika.ae.org/) - Technika
-- [Cultural Sub Council](https://www.adhyaay.org/) - Adhyaay
+### Associate Head, Web Development  
+**Technical, Hobby, and Cultural Sub Councils, HBTU**  
+_February 2024 – December 2024_
+
+- **Led web development** across multiple sub-councils using **React.js**, **Next.js**, and **TypeScript**, building full-stack websites to enhance digital presence.
+- **Built and optimized websites**, improving performance, responsiveness, and user experience, and ensuring alignment with the sub-councils' goals.
+- **Supported event outreach**, integrating platforms to increase student engagement and participation in technical and cultural events.
+- 
 
 ## 🏆 Achievements
 
-- Solved 250+ DSA problems across platforms like CodeChef, LeetCode, and GeeksforGeeks.
+- Solved 350+ DSA problems across platforms like CodeChef, LeetCode, and GeeksforGeeks.
 - Successfully implemented features in competitive programming platforms integrating APIs from various sources.
 - Created a Flashcard Learning Tool and Voting App with advanced UI/UX designs and interactive features.
 
