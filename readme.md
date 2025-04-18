@@ -47,7 +47,7 @@
 
 ### [DbChat](https://dbchat-rusty98.vercel.app/)
 **Technologies:** React, Node.js, Express, MongoDB, Socket.io  
-[GitHub Repository](https://github.com/Rusty-98/DbChat)
+<!-- [GitHub Repository](https://github.com/Rusty-98/DbChat) -->
 
 - **AI-Driven Database Interaction:** Enables direct querying and chatting with database records, such as student data, for easy management.
 - **Natural Language Queries:** Teachers or users can ask questions like "How many students have attendance greater than 80%" or "How many students scored above average?" in plain language.
@@ -56,7 +56,7 @@
 
 ### [CodeAlchemy](https://code-alchemy-rusty98.vercel.app/)
 **Technologies:** React, Node.js (Express), Clerk, MongoDB, Google Gemini AI  
-[GitHub Repository](https://github.com/Rusty-98/code-alchemy)
+<!-- [GitHub Repository](https://github.com/Rusty-98/code-alchemy) -->
 
 - **AI-Assisted File Generation:** Developed a full-stack platform where users can input text, and the system generates structured output files, packaged into a downloadable ZIP format.
 - **Secure User Authentication:** Implemented secure authentication and user management using **Clerk**.
@@ -75,7 +75,7 @@
 
 ### [Tic Tac Toe](https://ticktack.vercel.app/)
 **Technologies:** React, Node.js, Express, TailwindCSS, Socket.io  
-[GitHub Repository](https://github.com/Rusty-98/tick)
+<!-- [GitHub Repository](https://github.com/Rusty-98/tick) -->
 
 - **Real-time Multiplayer:** Real-time multiplayer functionality with Socket.io.
 - **Frontend:** Built with React and Tailwind CSS for a dynamic, responsive UI.
@@ -84,7 +84,7 @@
 
 ### [LinkVault](https://linkvault-rusty98.vercel.app)  
 **Technologies:** Vite, Node.js, Express, MongoDB, TailwindCSS, JWT Authentication, Shadcn  
-[GitHub Repository](https://github.com/Rusty-98/linkVault)
+<!-- [GitHub Repository](https://github.com/Rusty-98/linkVault) -->
 
 - **Secure Link Storage:** Encrypted storage for important links with user authentication.
 - **Categorization & Search:** Organize links into categories and search easily with advanced filtering options.
